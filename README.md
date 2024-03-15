@@ -48,3 +48,9 @@
   6. Export the DataFrame to a CSV file.
 
 # References
+
+Scraped data from https://static.bc-edx.com/data/web/mars_facts/temperature.html for this challenge.
+
+Referenced many solved module examples from bootcamp materials.
+
+Referenced Chat GPT to help troubleshoot errors upon execution.
